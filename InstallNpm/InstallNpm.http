@@ -1,0 +1,6 @@
+@InstallNpm_HostAddress = http://localhost:5273
+
+GET {{InstallNpm_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
