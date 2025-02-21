@@ -1,0 +1,5 @@
+{
+  "scripts": {
+    "build": "./InstallNpm/Portable-Node/node ./InstallNpm/Portable-Node/npm run build"
+  }
+}
