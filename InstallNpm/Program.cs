@@ -32,6 +32,6 @@ app.MapControllers();
 // This is where you should map your controller route
 app.MapControllerRoute(
     name: "default",
-    pattern: "{controller=NodeInstall}/{action=InstallNode}");
+    pattern: "{controller=NodeInstall}/{action=Home}");
 
 app.Run();
